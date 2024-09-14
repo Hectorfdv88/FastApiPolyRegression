@@ -1,0 +1,122 @@
+[
+  {
+    "experiencia": 5,
+    "profesion": "Ingenieria de sistemas",
+    "universidad": "Universaidad del Valle",
+    "salario_promedio": 4500
+  },
+  {
+    "experiencia": 2,
+    "profesion": "Industrial",
+    "universidad": "Uceva",
+    "salario_promedio": 3000
+  },
+  {
+    "experiencia": 8,
+    "profesion": "Contador",
+    "universidad": "Icesi",
+    "salario_promedio": 5500
+  },
+  {
+    "experiencia": 10,
+    "profesion": "Veterinario",
+    "universidad": "Universaidad del Valle",
+    "salario_promedio": 6000
+  },
+  {
+    "experiencia": 1,
+    "profesion": "Ingenieria de sistemas",
+    "universidad": "Uceva",
+    "salario_promedio": 2000
+  },
+  {
+    "experiencia": 3,
+    "profesion": "Industrial",
+    "universidad": "Icesi",
+    "salario_promedio": 3500
+  },
+  {
+    "experiencia": 7,
+    "profesion": "Contador",
+    "universidad": "Universaidad del Valle",
+    "salario_promedio": 5000
+  },
+  {
+    "experiencia": 6,
+    "profesion": "Veterinario",
+    "universidad": "Uceva",
+    "salario_promedio": 4800
+  },
+  {
+    "experiencia": 4,
+    "profesion": "Ingenieria de sistemas",
+    "universidad": "Icesi",
+    "salario_promedio": 4000
+  },
+  {
+    "experiencia": 9,
+    "profesion": "Industrial",
+    "universidad": "Universaidad del Valle",
+    "salario_promedio": 5800
+  },
+  {
+    "experiencia": 5,
+    "profesion": "Contador",
+    "universidad": "Uceva",
+    "salario_promedio": 4500
+  },
+  {
+    "experiencia": 2,
+    "profesion": "Veterinario",
+    "universidad": "Icesi",
+    "salario_promedio": 3000
+  },
+  {
+    "experiencia": 8,
+    "profesion": "Ingenieria de sistemas",
+    "universidad": "Universaidad del Valle",
+    "salario_promedio": 5500
+  },
+  {
+    "experiencia": 10,
+    "profesion": "Industrial",
+    "universidad": "Uceva",
+    "salario_promedio": 6000
+  },
+  {
+    "experiencia": 1,
+    "profesion": "Contador",
+    "universidad": "Icesi",
+    "salario_promedio": 2000
+  },
+  {
+    "experiencia": 3,
+    "profesion": "Veterinario",
+    "universidad": "Universaidad del Valle",
+    "salario_promedio": 3500
+  },
+  {
+    "experiencia": 7,
+    "profesion": "Ingenieria de sistemas",
+    "universidad": "Uceva",
+    "salario_promedio": 5000
+  },
+  {
+    "experiencia": 6,
+    "profesion": "Industrial",
+    "universidad": "Icesi",
+    "salario_promedio": 4800
+  },
+  {
+    "experiencia": 4,
+    "profesion": "Contador",
+    "universidad": "Universaidad del Valle",
+    "salario_promedio": 4000
+  },
+  {
+    "experiencia": 9,
+    "profesion": "Veterinario",
+    "universidad": "Uceva",
+    "salario_promedio": 5800
+  }
+]
